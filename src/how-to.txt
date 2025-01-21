@@ -1,0 +1,6 @@
+npx create-web-app demo
+cd demo
+npm install
+npm install web-vitals
+npm start 
+npm run build
